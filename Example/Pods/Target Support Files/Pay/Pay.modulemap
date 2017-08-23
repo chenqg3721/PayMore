@@ -1,0 +1,6 @@
+framework module Pay {
+  umbrella header "Pay-umbrella.h"
+
+  export *
+  module * { export * }
+}

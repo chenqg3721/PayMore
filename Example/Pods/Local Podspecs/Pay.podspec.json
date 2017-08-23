@@ -1,0 +1,22 @@
+{
+  "name": "Pay",
+  "version": "0.1.0",
+  "summary": "A short description of Pay.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenqg666@gmail.com/Pay",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenqg666@gmail.com": "chenqg666@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/chenqg666@gmail.com/Pay.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Pay/Classes/**/*"
+}
